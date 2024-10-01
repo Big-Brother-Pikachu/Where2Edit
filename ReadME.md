@@ -40,6 +40,6 @@ volume = {139},
 pages = {109458},
 year = {2023},
 issn = {0031-3203},
-author = {Changming Xiao and Qi Yang and Xiaoqiang Xu and Jianwei Zhang and Feng Zhou and Changshui Zhang},
+author = {Changming Xiao and Qi Yang and Xiaoqiang Xu and Jianwei Zhang and Feng Zhou and Changshui Zhang}
 }
 ```
